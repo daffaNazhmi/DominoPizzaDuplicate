@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DominoPizzaDaffaNazhmi</string>
+
+    <string-array name="kelas">
+        <item>Classic Handtossed</item>
+        <item>PAN Pizza</item>
+        <item>Crunchy Thin Crust</item>
+        <item>UPGRADE TO CHEESE BURST CRUST</item>
+        <item>UPGRADE TO DOUBLE CHEESE BURST CRUST</item>
+        <item>UPGRADE TO FRANKIE SAUSAGE CRUST</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+</resources>
